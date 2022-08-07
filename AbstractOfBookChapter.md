@@ -2,3 +2,4 @@
 Abstract: The infectious disease of coronavirus is intensifying exponentially throughout the world. According to the World Health Organization statistics, all countries across the world are affected by the virus. Many countries are progressing in the process of vaccination to handle the “pandemic” situation. In this chapter, we analyze the data on COVID-19 and try to find out the scenario of vaccination progress all over the world. The advancements of data analysis have a significant impact on our daily lives. The text analysis based on medical data provides promising results for the health sector for future prediction. To develop a new model of machine learning, data analysis is a key to identify the current situation and training data for the new model. This chapter provides an initial benchmark to explain the current COVID-19 issues by analyzing statistical data for future and further research.
 
 
+Book Chapter Link: https://tinyurl.com/bijanpaulresearch 
